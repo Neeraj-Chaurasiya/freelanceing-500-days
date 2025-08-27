@@ -66,3 +66,5 @@ zeros, ones, eye, arange, linspace → array generate karne ke methods.
 Indexing & slicing same as Python lists, but 2D me [row, col].
 
 Boolean indexing powerful hai (filter karne ke liye).
+
+
