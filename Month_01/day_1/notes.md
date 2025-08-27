@@ -60,6 +60,9 @@ print(mat[3, 4])   # 20 → last element
 ✅ Summary
 
 np.array → basic array creation.
+
 zeros, ones, eye, arange, linspace → array generate karne ke methods.
+
 Indexing & slicing same as Python lists, but 2D me [row, col].
+
 Boolean indexing powerful hai (filter karne ke liye).
