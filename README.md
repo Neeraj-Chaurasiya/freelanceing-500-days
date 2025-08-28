@@ -42,3 +42,27 @@
    - Column-wise sum
 
 
+# 📅 Day 3 – Pandas Basics (Series & DataFrame)
+
+## ✅ Topics Covered
+- Introduction to **pandas** library  
+- **Series (1D data)**  
+  - Creating from list  
+  - Custom index  
+- **DataFrame (2D data)**  
+  - Creating from dictionary  
+  - Rows & columns overview  
+- Basic DataFrame functions  
+  - `head()`, `tail()`, `shape`, `info()`, `describe()`
+
+## 💻 Code Files
+- `pandas_basics_day3.ipynb`
+- `code.py` (examples)
+
+## 🎯 Practice Task
+1. Create a student DataFrame with 5 students → Columns: `Name, Age, Marks, City`.  
+2. Print first 3 rows (`head(3)`).  
+3. Check DataFrame shape and info.  
+4. Calculate `Marks` ka mean aur max value.  
+
+---
