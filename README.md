@@ -66,3 +66,32 @@
 4. Calculate `Marks` ka mean aur max value.  
 
 ---
+
+# 📅 Day 4 – Pandas Indexing, Selection & Filtering
+
+## ✅ Topics Covered
+- **Column selection**
+  - `df["col"]` → single column (Series)
+  - `df[["col1", "col2"]]` → multiple columns (DataFrame)
+- **Row selection**
+  - `iloc` → index-based (0,1,2…)
+  - `loc` → label-based (row labels, specific columns)
+- **Conditional filtering**
+  - `df[df["Marks"] > 88]`
+  - `df[(df["Age"] > 22) & (df["Marks"] >= 88)]`
+- **Adding & dropping columns**
+  - `df["new_col"] = ...`
+  - `df.drop("col", axis=1)`
+
+## 💻 Code Files
+- `pandas_indexing_day4.ipynb`
+- `code.py` (examples)
+
+## 🎯 Practice Task
+1. Ek **employee DataFrame** banao with columns: `EmpID, Name, Age, Department, Salary` (5 employees).  
+2. Sirf `Name` aur `Salary` column print karo.  
+3. Sirf un employees ko print karo jinki `Salary > 50,000` ho.  
+4. Ek naya column **"Bonus"** add karo (Salary ka 10%).  
+5. `"Department"` column drop karo.  
+
+---
