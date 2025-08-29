@@ -6,10 +6,8 @@ import pandas as pd
 
 data = [1, 2, 3, 4, 5, 6]
 
-print(pd.Series(data))
-
-👉 pd.Series ek 1D labeled array hota hai.
-
+print(pd.Series(data))  
+👉 pd.Series ek 1D labeled array hota hai.  
 👉 Default indexing (0 se n-1) hoti hai.
 
 🔹 Custom Indexing
@@ -30,28 +28,20 @@ data1 = {
 
 df = pd.DataFrame(data1)
 
-print(df)
-
+print(df)  
 👉 pd.DataFrame ek 2D tabular data structure hai (rows × columns).
 
 🔹 Basic DataFrame Info
 
-print(df.head())      # first 5 rows
-
-print(df.tail())      # last 5 rows
-
-print(df.shape)       # (rows, cols)
-
-print(df.info())      # summary (dtypes, non-null values)
-
+print(df.head())      # first 5 rows  
+print(df.tail())      # last 5 rows  
+print(df.shape)       # (rows, cols)  
+print(df.info())      # summary (dtypes, non-null values)  
 print(df.describe())  # stats for numeric columns
 
-👉 head() & tail() → quick preview.
-
-👉 shape → dataset size.
-
-👉 info() → datatype + null check.
-
+👉 head() & tail() → quick preview.  
+👉 shape → dataset size.  
+👉 info() → datatype + null check.  
 👉 describe() → statistics (mean, std, min, max, etc.).
 
 🔹 Small Practice Task 🚀
@@ -65,21 +55,15 @@ data_std = {
 
 df_std = pd.DataFrame(data_std)
 
-print(df_std)          # full DataFrame
+print(df_std)          # full DataFrame  
+print(df_std.head(3))  # first 3 rows  
+print(df_std.shape)    # (5,4)  
+print(df_std.info())   # structure & datatypes  
+print(df_std.describe())  # stats of numeric columns  
 
-print(df_std.head(3))  # first 3 rows
-
-print(df_std.shape)    # (5,4)
-
-print(df_std.info())   # structure & datatypes
-
-print(df_std.describe())  # stats of numeric columns
-
-👉 Realistic dataset banaya with Name, Age, Marks, City.
-
-👉 head(3) → first 3 rows.
-
-👉 describe() → min, max, mean, std etc.
+👉 Realistic dataset banaya with Name, Age, Marks, City.  
+👉 head(3) → first 3 rows.  
+👉 describe() → min, max, mean, std etc.  
 
 ✅ Summary
 
