@@ -83,8 +83,6 @@ print(df_std.describe())  # stats of numeric columns
 
 ✅ Summary
 
-Series = 1D data with indexing.
-
-DataFrame = 2D tabular data (rows × cols).
-
+Series = 1D data with indexing.  
+DataFrame = 2D tabular data (rows × cols).  
 head(), tail(), shape, info(), describe() → quick data analysis ke liye best functions.
