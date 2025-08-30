@@ -95,3 +95,30 @@
 5. `"Department"` column drop karo.  
 
 ---
+
+# 📅 Day 5 – Pandas GroupBy, Aggregate & Pivot Table
+
+## ✅ Topics Covered
+- **GroupBy basics**
+  - `df.groupby("col")["target"].mean()`
+- **Multiple aggregations**
+  - `agg(["mean","max","min"])`
+- **GroupBy with multiple columns**
+  - `df.groupby(["col1","col2"])["target"].sum()`
+- **Pivot tables**
+  - `df.pivot_table(index="col", values="target", aggfunc="mean")`
+
+## 💻 Code Files
+- `pandas_groupby_day5.ipynb`
+- `code.py` (examples)
+
+## 🎯 Practice Task
+1. Ek **sales DataFrame** banao with columns: `Region, Product, Sales, Profit` (8 rows).  
+2. Group by `Region` → total **Sales** nikalo.  
+3. Group by `Product` → average **Profit** nikalo.  
+4. Ek **Pivot Table** banao jisme:
+   - Rows = Region  
+   - Columns = Product  
+   - Values = Sales sum  
+
+---
