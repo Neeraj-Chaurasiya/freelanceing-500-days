@@ -122,3 +122,33 @@
    - Values = Sales sum  
 
 ---
+
+# 📅 Day 6 – Pandas Merge, Join & Concat
+
+## ✅ Topics Covered
+- **Concatenation**
+  - `pd.concat([df1, df2])` → vertical (rows) combine
+  - `pd.concat([df1, df2], axis=1)` → horizontal (columns) combine
+- **Merge (SQL JOIN style)**
+  - `pd.merge(df1, df2, on="col", how="inner")`
+- **Different Types of Joins**
+  - `how="left"` → Left Join
+  - `how="right"` → Right Join
+  - `how="outer"` → Full Outer Join
+- **Join using Index**
+  - `df1.join(df2, how="outer")`
+
+## 💻 Code Files
+- `pandas_merge_day6.ipynb`
+- `code.py` (examples)
+
+## 🎯 Practice Task
+1. Ek **students DataFrame** banao with columns:  
+   `RollNo, Name, Class`.  
+2. Ek **marks DataFrame** banao with columns:  
+   `RollNo, Subject, Marks`.  
+3. Merge karke ek final DataFrame banao jisme:  
+   `Student Name + Subject + Marks` ho.  
+4. Concatenate karke do alag batches ka students data ek hi DataFrame me lao.  
+
+---
