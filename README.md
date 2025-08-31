@@ -1,3 +1,4 @@
+# LEARNING DATA ANALYST.
 # 📅 Day 1 – NumPy Basics
 
 ## ✅ Topics Covered
