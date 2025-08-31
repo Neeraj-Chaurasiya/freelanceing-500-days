@@ -152,3 +152,28 @@
 4. Concatenate karke do alag batches ka students data ek hi DataFrame me lao.  
 
 ---
+
+# 📅 Day 7 – Pandas GroupBy & Aggregation
+
+## ✅ Topics Covered
+- **Basic GroupBy**
+  - `df.groupby("col")["val"].mean()` → group-wise average
+- **Multiple Aggregations**
+  - `agg(["mean","sum","max","min"])` → ek group ke multiple stats
+- **GroupBy on Multiple Columns**
+  - `df.groupby(["col1","col2"])["val"].mean()`
+- **Sorting Aggregated Results**
+  - `.sort_values(ascending=False)`
+
+## 💻 Code Files
+- `pandas_groupby_day7.ipynb`
+- `code.py` (examples)
+
+## 🎯 Practice Task
+1. Ek **sales DataFrame** banao jisme columns ho:  
+   `Region, Product, Sales`.  
+2. `groupby()` karke har **Region ka total sales** nikaalo.  
+3. Har **Product ka average sales** nikaalo.  
+4. Top 1 product identify karo jo sabse zyada bikta hai.  
+
+---
