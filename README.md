@@ -178,3 +178,45 @@
 4. Top 1 product identify karo jo sabse zyada bikta hai.  
 
 ---
+
+# 📅 Day 8 – Pandas Data Cleaning & Preprocessing
+
+## ✅ Topics Covered
+- **Missing Values**
+  - `df.isnull()` → missing check
+  - `df.dropna()` → drop missing rows
+  - `df.fillna(value)` → fill missing values
+- **Duplicates**
+  - `df.duplicated()` → duplicate check
+  - `df.drop_duplicates()` → remove duplicates
+- **Rename + Replace**
+  - `df.rename(columns={"old":"new"})`
+  - `df["col"].replace(old, new)`
+- **String Cleaning**
+  - `.str.strip()` → trim spaces  
+  - `.str.upper()` → uppercase  
+  - `.str.title()` → title case  
+
+## 💻 Code Files
+- `pandas_cleaning_day8.ipynb`
+- `code.py` (examples)
+
+## 🚀 Practice Task
+1. Ek DataFrame banao jisme:
+   - Kuch `NaN` values
+   - Duplicate rows
+   - Extra spaces in strings  
+2. Data cleaning steps apply karke ek **final clean dataset** banao.  
+3. GitHub pe upload karo: **pandas_cleaning_day8.ipynb**  
+
+---
+
+## ✅ Expected Output
+Tumhe real-world **data cleaning pipeline** samajh aayega:
+- Missing values handle karna
+- Duplicates remove karna
+- Columns rename/replace
+- String strip/title/upper  
+
+⚡ Ye freelancing aur industry projects me sabse zyada use hoti skill hai.
+
