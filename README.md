@@ -220,3 +220,42 @@ Tumhe real-world **data cleaning pipeline** samajh aayega:
 
 ⚡ Ye freelancing aur industry projects me sabse zyada use hoti skill hai.
 
+
+# 📅 Day 9 – Exploratory Data Analysis (EDA – Part 1)
+
+## ✅ Topics Covered
+- **Dataset Load & Info**
+  - `pd.read_csv()` → dataset import
+  - `.head()`, `.info()`, `.describe()` → dataset samajhna
+- **Univariate Analysis**
+  - `.mean()`, `.value_counts()`, `.unique()` → single column analysis
+- **Bivariate Analysis**
+  - `.groupby()` → relation between two columns
+- **Visualization (Matplotlib Basics)**
+  - Histogram → distribution
+  - Bar Plot → average comparison
+  - Scatter Plot → relation between numeric columns
+
+---
+
+## 💻 Code Files
+- `eda_day9.ipynb`
+
+---
+
+## 🚀 Practice Task
+Dataset: **tips.csv**  
+1. Find **highest tip kis day pe di gayi**  
+2. Calculate **Male vs Female average bill difference**  
+3. Scatter plot banao: `size` vs `total_bill`  
+
+Upload: **eda_day9.ipynb** to GitHub.
+
+---
+
+## ✅ Expected Output
+- Dataset ka **overview** samajh aayega  
+- Univariate + Bivariate analysis clear hoga  
+- Basic **EDA plots** (histogram, bar, scatter) seekh jaoge  
+
+⚡ Ye har Kaggle project aur freelancing analysis ka **Step-1** hai.
