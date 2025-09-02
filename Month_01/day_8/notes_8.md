@@ -16,7 +16,8 @@ print(df)
 
 print(df.isnull())          # Missing values check  
 print(df.dropna())          # NaN row hata do  
-print(df.fillna("Unknown")) # NaN ko replace karo  
+print(df.fillna("Unknown")) # NaN ko replace karo 
+
 👉 isnull() → NaN check karta hai.  
 👉 dropna() → NaN wali row hata deta hai.  
 👉 fillna() → NaN ko custom value se replace karta hai.  
@@ -32,7 +33,8 @@ df1 = pd.DataFrame(data_1)
 print(df1)  
 
 print(df1.duplicated())      # Duplicate check  
-print(df1.drop_duplicates()) # Duplicate remove  
+print(df1.drop_duplicates()) # Duplicate remove 
+
 👉 duplicated() → True/False return karta hai duplicate rows ke liye.  
 👉 drop_duplicates() → Duplicate rows hata deta hai.  
 
@@ -79,13 +81,6 @@ df4["City"] = df4["City"].str.strip().str.title()
 df4 = df4.drop_duplicates()  
 df4 = df4.fillna("Unknown")  
 print("Cleaned data : \n", df4)  
-
-Output (Cleaned Data):  
-     Name     Age     City
-0    Aman    23.0    Delhi
-1    Ravi  Unknown   Mumbai
-2   Priya    22.0  Unknown
-3  Neeraj    25.0     Pune
 
 👉 Pehle extra spaces hataye.  
 👉 Duplicate rows remove kiye.  
