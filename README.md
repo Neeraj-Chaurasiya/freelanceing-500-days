@@ -1,4 +1,5 @@
 # LEARNING DATA ANALYST STEP-BY-STEP.
+
 # 📅 Day 1 – NumPy Basics
 
 ## ✅ Topics Covered
@@ -8,9 +9,6 @@
 - Special arrays: `zeros`, `ones`, `eye`, `arange`, `linspace`
 - Indexing & slicing (1D and 2D)
 
-## 💻 Code Files
-- `numpy_basics_day1.ipynb`
-
 ## 🎯 Practice Task
 1. Create an array with numbers 1–20.  
 2. Print only even numbers.  
@@ -19,6 +17,7 @@
    - 3rd column  
    - Last element
 
+---
 
 # 📅 Day 2 – NumPy Operations & Matrix Handling
 
@@ -32,16 +31,14 @@
 - Random number generation
   - `np.random.rand`, `np.random.randint`, `np.random.seed`
 
-## 💻 Code Files
-- `numpy_operations_day2.ipynb`
-
 ## 🎯 Practice Task
 1. Create a 3x3 random integer matrix (values 1–50).  
 2. Print row-wise maximum and column-wise minimum.  
 3. Create a 1D array (1–16), reshape to 4x4, then print:  
    - Row-wise sum  
-   - Column-wise sum
+   - Column-wise sum  
 
+---
 
 # 📅 Day 3 – Pandas Basics (Series & DataFrame)
 
@@ -55,10 +52,6 @@
   - Rows & columns overview  
 - Basic DataFrame functions  
   - `head()`, `tail()`, `shape`, `info()`, `describe()`
-
-## 💻 Code Files
-- `pandas_basics_day3.ipynb`
-- `code.py` (examples)
 
 ## 🎯 Practice Task
 1. Create a student DataFrame with 5 students → Columns: `Name, Age, Marks, City`.  
@@ -84,10 +77,6 @@
   - `df["new_col"] = ...`
   - `df.drop("col", axis=1)`
 
-## 💻 Code Files
-- `pandas_indexing_day4.ipynb`
-- `code.py` (examples)
-
 ## 🎯 Practice Task
 1. Ek **employee DataFrame** banao with columns: `EmpID, Name, Age, Department, Salary` (5 employees).  
 2. Sirf `Name` aur `Salary` column print karo.  
@@ -108,10 +97,6 @@
   - `df.groupby(["col1","col2"])["target"].sum()`
 - **Pivot tables**
   - `df.pivot_table(index="col", values="target", aggfunc="mean")`
-
-## 💻 Code Files
-- `pandas_groupby_day5.ipynb`
-- `code.py` (examples)
 
 ## 🎯 Practice Task
 1. Ek **sales DataFrame** banao with columns: `Region, Product, Sales, Profit` (8 rows).  
@@ -139,10 +124,6 @@
 - **Join using Index**
   - `df1.join(df2, how="outer")`
 
-## 💻 Code Files
-- `pandas_merge_day6.ipynb`
-- `code.py` (examples)
-
 ## 🎯 Practice Task
 1. Ek **students DataFrame** banao with columns:  
    `RollNo, Name, Class`.  
@@ -165,10 +146,6 @@
   - `df.groupby(["col1","col2"])["val"].mean()`
 - **Sorting Aggregated Results**
   - `.sort_values(ascending=False)`
-
-## 💻 Code Files
-- `pandas_groupby_day7.ipynb`
-- `code.py` (examples)
 
 ## 🎯 Practice Task
 1. Ek **sales DataFrame** banao jisme columns ho:  
@@ -197,10 +174,6 @@
   - `.str.upper()` → uppercase  
   - `.str.title()` → title case  
 
-## 💻 Code Files
-- `pandas_cleaning_day8.ipynb`
-- `code.py` (examples)
-
 ## 🚀 Practice Task
 1. Ek DataFrame banao jisme:
    - Kuch `NaN` values
@@ -218,8 +191,9 @@ Tumhe real-world **data cleaning pipeline** samajh aayega:
 - Columns rename/replace
 - String strip/title/upper  
 
-⚡ Ye freelancing aur industry projects me sabse zyada use hoti skill hai.
+⚡ Ye freelancing aur industry projects me sabse zyada use hoti skill hai.  
 
+---
 
 # 📅 Day 9 – Exploratory Data Analysis (EDA – Part 1)
 
@@ -236,13 +210,6 @@ Tumhe real-world **data cleaning pipeline** samajh aayega:
   - Bar Plot → average comparison
   - Scatter Plot → relation between numeric columns
 
----
-
-## 💻 Code Files
-- `eda_day9.ipynb`
-
----
-
 ## 🚀 Practice Task
 Dataset: **tips.csv**  
 1. Find **highest tip kis day pe di gayi**  
@@ -258,4 +225,41 @@ Upload: **eda_day9.ipynb** to GitHub.
 - Univariate + Bivariate analysis clear hoga  
 - Basic **EDA plots** (histogram, bar, scatter) seekh jaoge  
 
-⚡ Ye har Kaggle project aur freelancing analysis ka **Step-1** hai.
+⚡ Ye har Kaggle project aur freelancing analysis ka **Step-1** hai.  
+
+---
+
+# 📅 Day 10 – Exploratory Data Analysis (EDA – Part 2, Seaborn)
+
+## ✅ Topics Covered
+- **Seaborn Setup**
+  - `sns.histplot`, `sns.boxplot` → distribution + outliers
+  - `sns.barplot`, `sns.countplot` → categorical comparison
+  - `sns.scatterplot`, `sns.lineplot` → relationships
+  - `sns.heatmap` → correlation matrix
+
+## 📊 Visualizations
+1. **Distribution Plots**
+   - Histogram (total_bill)
+   - Boxplot (bill per day)
+2. **Categorical Plots**
+   - Barplot (avg bill by day)
+   - Countplot (gender count)
+3. **Relationship Plots**
+   - Scatterplot (bill vs tip, hue=sex)
+   - Lineplot (bill by group size)
+4. **Heatmap**
+   - Correlation matrix
+
+## 🚀 Practice Task
+Dataset: **tips.csv**  
+1. Male vs Female **average tip** ka barplot banao.  
+2. Day-wise **bill distribution** ka boxplot banao.  
+3. Heatmap banao aur identify karo → **tip ke saath sabse zyada correlated column** kaunsa hai.  
+
+---
+
+## ✅ Expected Output
+- Distribution, categorical, relationship aur heatmap plots ka mastery.  
+- Gender, day aur correlation-based analysis kar paoge.  
+- EDA ke visualization step me confidence aayega 🚀  
