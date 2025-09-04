@@ -263,3 +263,36 @@ Dataset: **tips.csv**
 - Distribution, categorical, relationship aur heatmap plots ka mastery.  
 - Gender, day aur correlation-based analysis kar paoge.  
 - EDA ke visualization step me confidence aayega 🚀  
+
+
+# 📅 Day 11 – Mini Project: Sales Analysis
+
+## ✅ Topics Covered
+- Dataset Creation / Import (Superstore-style sales data)
+- Data Cleaning:
+  - Missing values check
+  - Duplicate handling
+  - String/category cleanup
+- Exploratory Data Analysis:
+  - Revenue calculation
+  - Top-selling product
+  - Region-wise sales
+- Visualization (Seaborn + Matplotlib):
+  - Product-wise sales (bar plot)
+  - Region-wise sales (bar plot)
+  - Correlation heatmap
+
+---
+
+## 🚀 Practice Task
+1. Har **Region ka total revenue** nikalo.  
+2. Identify karo **sabse zyada revenue generate karne wala product**.  
+3. Ek **Bar Chart** banao → Product vs Revenue.  
+4. Ek **Pie Chart** banao → Region-wise sales percentage.  
+
+---
+
+## ✅ Expected Output
+- Tum ek **Mini Sales Analysis Project** complete kar loge.  
+- Portfolio ke liye ek **freelancing-style analysis notebook** ready hoga.  
+- Real-world workflow (Data Cleaning → EDA → Visualization → Insights) clear ho jayega 🚀  
