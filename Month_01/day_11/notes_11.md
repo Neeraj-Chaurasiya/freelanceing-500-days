@@ -51,6 +51,7 @@ print("Region-wise Sales:", top_region)
 4️⃣ Visualization
 4.1 Product-wise Sales
 Ye chart hume batata hai ki kaunse product ki sales sabse zyada hai:
+
 ![Product-wise Sales](images/chart_product_sales.png)
 
 4.2 Region-wise Sales
