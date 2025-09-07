@@ -296,3 +296,71 @@ Dataset: **tips.csv**
 - Tum ek **Mini Sales Analysis Project** complete kar loge.  
 - Portfolio ke liye ek **freelancing-style analysis notebook** ready hoga.  
 - Real-world workflow (Data Cleaning → EDA → Visualization → Insights) clear ho jayega 🚀  
+
+
+# 📅 Day 12 – Web Scraping with Python (Part 1)
+
+## ✅ Topics Covered
+- **Libraries for Scraping**
+  - `requests` → website ka HTML fetch karna
+  - `BeautifulSoup` → HTML parse & extract
+  - `pandas` → scraped data ko CSV me save karna
+- **Basic Steps**
+  - Send request → `requests.get(url)`
+  - Parse HTML → `BeautifulSoup(html, "html.parser")`
+  - Extract elements → `find_all("tag")`
+  - Save to CSV with pandas
+
+---
+
+## 🚀 Practice Task
+1. Website: **books.toscrape.com**  
+   - Scrape book **title**, **price**, **rating**  
+2. Data ko **DataFrame** me save karo  
+3. Export CSV: **books_prices.csv**  
+4. Upload on GitHub: **web_scraping_day12.ipynb**
+
+---
+
+## ✅ Expected Output
+- Tum ek **basic web scraper** bana paoge.  
+- Titles, prices, ratings jaisa **structured dataset** extract kar loge.  
+- Freelancing ke liye ekdum useful skill (clients aksar data scraping mangte hain).  
+- Next step: Pagination & multiple pages scrape karna (Day-13). 🚀  
+
+
+# 📅 Day 13 – Web Scraping with Python (Part 2 / Advanced)
+
+## ✅ Topics Covered
+
+* **Advanced Scraping Concepts**
+
+  * Pagination → multiple pages scrape karna
+  * Looping through URLs → automate scraping
+  * Extract multiple fields → title, price, rating
+  * Store results in **lists** → then convert to DataFrame
+* **Saving Data**
+
+  * `pandas.DataFrame()` → structured data
+  * `to_csv()` → export multiple-page data
+
+---
+
+## 🚀 Practice Task
+
+1. Website: **books.toscrape.com**
+
+   * Scrape **first 10 pages**
+   * Extract: **title**, **price**, **rating**
+2. Store all data in a **single DataFrame**
+3. Export CSV: **books\_full.csv**
+4. Upload on GitHub: **web\_scraping\_day13.ipynb**
+
+---
+
+## ✅ Expected Output
+
+* Tum ek **multi-page web scraper** bana paoge
+* Titles, prices, ratings jaisa **complete dataset** extract kar loge
+* Freelancing ke liye **ready-to-use dataset** milega
+* Next step: Scraped data ko **Pandas / Excel me clean & analyze** karna (Day-14) 🚀
