@@ -364,3 +364,45 @@ Dataset: **tips.csv**
 * Titles, prices, ratings jaisa **complete dataset** extract kar loge
 * Freelancing ke liye **ready-to-use dataset** milega
 * Next step: Scraped data ko **Pandas / Excel me clean & analyze** karna (Day-14) 🚀
+
+
+# 📅 Day 14 – Scraped Data Cleaning & Analysis
+
+## ✅ Topics Covered
+
+* **Data Loading**
+
+  * Import scraped CSV into pandas DataFrame
+* **Data Cleaning**
+
+  * Remove currency symbols & convert Price → numeric
+  * Convert Rating (One–Five) → numeric scale (1–5)
+  * Handle missing values / duplicates
+* **Data Analysis**
+
+  * Average price, highest priced book
+  * Average rating
+  * Grouping & aggregation
+* **Visualization**
+
+  * Price distribution (histogram)
+  * Ratings count (bar chart)
+
+---
+
+## 🚀 Practice Task
+
+1. Extract **Top 10 most expensive books**
+2. Calculate **average price per rating** (1–5)
+3. Create **bar chart** → Rating vs Average Price
+4. Export cleaned dataset → **books\_cleaned.csv**
+5. Upload notebook → **web\_scraping\_day14.ipynb**
+
+---
+
+## ✅ Expected Output
+
+* Tum ek **scraped dataset ko clean & analyze** kar paoge
+* Exported file: **books\_cleaned.csv** (ready for freelancing use)
+* Clear **visual insights** (price trends, rating distribution)
+* Next step (Day-15): **Automated Dashboard / Report (Excel / PowerBI)** 🚀
