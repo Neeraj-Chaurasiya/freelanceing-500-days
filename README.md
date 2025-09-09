@@ -406,3 +406,41 @@ Dataset: **tips.csv**
 * Exported file: **books\_cleaned.csv** (ready for freelancing use)
 * Clear **visual insights** (price trends, rating distribution)
 * Next step (Day-15): **Automated Dashboard / Report (Excel / PowerBI)** 🚀
+
+# 📅 Day 15 – Automated Dashboard / Report
+
+## ✅ Topics Covered
+
+* **Load Cleaned Dataset**
+
+  * Import `books_cleaned.csv` into pandas DataFrame
+* **Summary Metrics**
+
+  * Total Books, Average Price, Average Rating
+* **Visualizations**
+
+  * Price Distribution (histogram)
+  * Top 10 Expensive Books (bar chart)
+  * Rating vs Average Price (bar chart)
+* **Automated Excel Report**
+
+  * Multiple sheets: All Books, Top 10 Expensive, Avg Price by Rating
+  * Ready-to-share client deliverable
+
+---
+
+## 🚀 Practice Task
+
+1. Display summary metrics: **Total Books, Average Price, Average Rating**
+2. Plot: Price Distribution, Top 10 Expensive Books, Rating vs Average Price
+3. Export **Excel report** with multiple sheets: `books_report.xlsx`
+4. Upload notebook → **web\_scraping\_day15\_dashboard.ipynb**
+
+---
+
+## ✅ Expected Output
+
+* Tum ek **automated dashboard / report** create kar paoge
+* Cleaned dataset + plots + summary metrics **ek hi file / Excel report me ready**
+* Freelancing ke liye **professional deliverable**
+* Next step (Day-16): **Portfolio polishing + GitHub README / showcase ready** 🚀
