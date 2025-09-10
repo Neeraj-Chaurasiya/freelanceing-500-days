@@ -444,3 +444,50 @@ Dataset: **tips.csv**
 * Cleaned dataset + plots + summary metrics **ek hi file / Excel report me ready**
 * Freelancing ke liye **professional deliverable**
 * Next step (Day-16): **Portfolio polishing + GitHub README / showcase ready** 🚀
+
+
+# 📅 Day 16 – Portfolio & GitHub Showcase
+
+## ✅ Topics Covered
+
+* **Git & GitHub Basics**
+
+  * Create repo → `git init`
+  * Track changes → `git add .` + `git commit -m "message"`
+  * Push to GitHub → `git push origin main`
+
+* **README.md Polish**
+
+  * Har project ke liye description likho
+  * Structure: Problem → Approach → Solution → Output (screenshots / CSV / plots)
+
+* **Portfolio Repo Structure**
+
+  * Projects folder ke andar:
+
+    * `Project_01_SalesAnalysis/`
+    * `Project_02_WebScraping/`
+    * `Project_03_Dashboard/`
+  * Har project folder me ek `README.md` + code/data
+
+* **GitHub Profile Setup**
+
+  * Profile README banayo (intro + skills + contact)
+  * Projects ko **pin** karo (Sales Analysis, Web Scraping, Dashboard)
+
+---
+
+## 🚀 Practice Task
+
+1. GitHub profile me ek **professional repo structure** banao.
+2. Har project ko **alag repo** me push karo.
+3. Har repo ke liye ek **portfolio-style README.md** likho.
+4. Profile README banao jisme tumhari **skills + projects + contact links** ho.
+
+---
+
+## ✅ Expected Output
+
+* Ek **polished GitHub profile** jo tumhara portfolio show kare.
+* Recruiters/clients ko lage ki tumne **real projects** kiye hain.
+* Freelancing aur internship ke liye tumhari profile **ready-to-share** hogi. 🚀

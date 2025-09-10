@@ -5,7 +5,7 @@ import seaborn as sns
 import pandas as pd
 
 df = pd.read_csv(r"C:\Freelanceing (500 days)\Month_01\day_14\Cleaned data\books_cleaned.csv")
-# print(df.head())
+print(df.head())
 
 # ----------------------------------- Summary Metrics -------------------------------------
 
