@@ -39,3 +39,8 @@ with pd.ExcelWriter("books_report.xlsx") as writer:
     df.to_excel(writer, sheet_name="All Books", index=False)
     top10.to_excel(writer, sheet_name="Top10 Expensive", index=False)
     avg_by_rating.to_excel(writer, sheet_name="Avg Price by Rating", index=False)
+
+
+# --------------------------------------- 🚀 Practice Task --------------------------------------
+
+# practice task are same as we did above
