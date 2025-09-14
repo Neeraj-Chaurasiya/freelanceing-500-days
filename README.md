@@ -491,3 +491,102 @@ Dataset: **tips.csv**
 * Ek **polished GitHub profile** jo tumhara portfolio show kare.
 * Recruiters/clients ko lage ki tumne **real projects** kiye hain.
 * Freelancing aur internship ke liye tumhari profile **ready-to-share** hogi. 🚀
+
+
+# 📅 Day 17 – SQL Practice with SSMS (Sales Database)
+
+## ✅ Topics Covered
+
+* **Database Creation**
+  * SSMS me ek naya Database banao → `SalesDB`
+* **Table Creation**
+  * Sales table with columns: id, product, category, price, quantity
+* **Data Insertion**
+  * Insert dummy product records (10–15 rows minimum)
+* **Queries**
+  * View all data (`SELECT *`)
+  * Filtered data (`WHERE price > ...`)
+  * Aggregation (`GROUP BY category → total revenue`)
+* **Screenshots for Notes**
+  * Queries + Outputs capture karke Day-17 notes.md me daalo
+
+---
+
+## 🚀 Practice Task
+
+1. Create **SalesDB** database in SSMS  
+2. Insert at least **10–15 sample product records**  
+3. Run queries:
+   * View all data
+   * Filter products by price
+   * Category-wise revenue calculation  
+4. Take **screenshots of results** and add them in `Day-17/notes.md`  
+5. Upload to GitHub → portfolio roadmap continue karo 🚀
+
+---
+
+## ✅ Expected Output
+
+* Tum ek **Sales Database** SSMS me successfully bana loge  
+* Basic SQL commands practice karoge: **CREATE, INSERT, SELECT, WHERE, GROUP BY**  
+* Screenshots ke saath tumhare GitHub roadmap me ek **solid SQL practice proof** add ho jayega  
+* Freelancing / interview ke liye tumhe **SQL confidence boost** milega ✅
+
+
+# 📅 Day 18 – SQL Intermediate (Joins & Aggregations)
+
+## ✅ Topics Covered
+
+* **Customers Table Creation**
+  * Ek alag table banakar customer details store karna  
+* **Linking Tables**
+  * `ALTER TABLE` se Sales aur Customers ko connect karna (via `customer_id`)  
+* **Joins**
+  * **INNER JOIN** → Sales + Customers ka matching data
+  * **LEFT JOIN** → Sabhi customers ke sath unke sales records
+* **Advanced Queries**
+  * City-wise revenue calculation
+  * Top 3 highest priced products
+
+---
+
+## 📂 Database Schema
+
+**sales**  
+- id  
+- product  
+- category  
+- price  
+- quantity  
+- customer_id  
+
+**customers**  
+- customer_id  
+- name  
+- city  
+
+---
+
+## 🚀 Practice Task
+
+1. `customers` table banao aur dummy records insert karo  
+2. `sales` table ko update karo → `customer_id` ke sath link karo  
+3. Queries run karo:
+   * INNER JOIN → Sales + Customers ka combined data
+   * City-wise revenue calculation  
+   * Top 3 highest priced products  
+4. Queries aur unke **screenshots** Day-18 `notes.md` me add karo  
+5. Upload karo GitHub pe:  
+   - `day18_sql_practice.sql` → queries  
+   - `notes.md` → explanation + screenshots  
+   - `README.md` → portfolio summary  
+
+---
+
+## ✅ Expected Output
+
+* Tum **Joins (INNER + LEFT)** ka use samjhoge  
+* City-wise & customer-wise revenue calculate kar paoge  
+* Advanced filtering aur top-N queries likhna seekh jaoge  
+* Freelancing clients ke liye **customer + sales linked reports** generate karna easy ho jayega  
+* Portfolio me ek aur **professional SQL project** add ho jayega 🚀
