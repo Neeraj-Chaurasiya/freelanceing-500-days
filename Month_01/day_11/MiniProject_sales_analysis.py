@@ -61,3 +61,4 @@ plt.figure(figsize=(6,6))
 plt.pie(region_sales, labels=region_sales.index, autopct="%1.1f%%", startangle=90)
 plt.title("Region-wise sales persentages ")
 plt.show()
+
