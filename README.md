@@ -590,3 +590,52 @@ Dataset: **tips.csv**
 * Advanced filtering aur top-N queries likhna seekh jaoge  
 * Freelancing clients ke liye **customer + sales linked reports** generate karna easy ho jayega  
 * Portfolio me ek aur **professional SQL project** add ho jayega 🚀
+
+
+# 📅 Day 19 – SQL Advanced Filtering & Functions
+
+## ✅ Topics Covered
+
+* **Advanced Filtering**
+  * `WHERE` clause with conditions
+  * `BETWEEN`, `IN`, `LIKE`, `IS NULL`
+* **ORDER BY**
+  * Multiple columns ke sath sorting (ASC / DESC)
+* **SQL Functions**
+  * **String Functions** → `LEN()`, `UPPER()`, `LOWER()`, `SUBSTRING()`
+  * **Date Functions** → `GETDATE()`, `YEAR()`, `MONTH()`
+  * **Numeric Functions** → `ROUND()`, `ABS()`
+
+---
+
+## 🚀 Practice Task
+
+1. **Filtering Queries**
+   * Price **1000 aur 50000 ke beech**
+   * Product only `Laptop` ya `Phone`
+   * Customers jinka naam `N` se start hota ho
+   * Customers jinki **sales NULL** hai  
+
+2. **Functions Practice**
+   * Customer name length निकालना
+   * Product ko `UPPERCASE` me dikhana
+   * Price ko round off karna (nearest hundred)
+   * Current date + Year extract karna  
+
+3. **ORDER BY**
+   * City wise ascending + Name wise descending sort  
+
+4. Queries run karke screenshots `notes.md` me daalo  
+5. Upload GitHub pe:
+   - `day19_sql_practice.sql` → queries
+   - `notes.md` → explanation + screenshots
+   - `README.md` → portfolio roadmap summary  
+
+---
+
+## ✅ Expected Output
+
+* Tum **filtering** ka mastery kar loge  
+* **String, Date, Numeric functions** ka real-world use samjhoge  
+* Data ko **clean & formatted** way me dikhana seekh jaoge  
+* Freelancing ke liye client ke reports aur formatted SQL outputs banane me expert ban jaoge 🚀
