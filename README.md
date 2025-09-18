@@ -639,3 +639,50 @@ Dataset: **tips.csv**
 * **String, Date, Numeric functions** ka real-world use samjhoge  
 * Data ko **clean & formatted** way me dikhana seekh jaoge  
 * Freelancing ke liye client ke reports aur formatted SQL outputs banane me expert ban jaoge 🚀
+
+
+# 📅 Day 20 – SQL Aggregations & Subqueries
+
+## ✅ Topics Covered
+
+* **Aggregate Functions**
+  * `SUM()`, `AVG()`, `COUNT()`, `MAX()`, `MIN()`
+* **GROUP BY**
+  * Category / City wise totals
+* **HAVING**
+  * Aggregated groups pe condition lagana
+* **Subqueries**
+  * Ek query ke andar dusri query (nested queries)
+
+---
+
+## 🚀 Practice Task
+
+1. **Aggregate Functions**
+   * Total revenue (`SUM`)
+   * Average product price (`AVG`)
+   * Number of customers (`COUNT`)
+   * Max & Min product price (`MAX`, `MIN`)
+
+2. **GROUP BY + HAVING**
+   * City-wise total revenue calculate karo
+   * Sirf wahi cities show karo jinka revenue **50,000 se zyada** ho
+
+3. **Subqueries**
+   * Products jo **average price se zyada costly** hain
+   * Customers jinhone **Laptop purchase kiya** hai
+
+4. Queries run karke screenshots `notes.md` me daalo  
+5. Upload GitHub pe:
+   - `day20_sql_practice.sql` → queries
+   - `notes.md` → explanation + screenshots
+   - `README.md` → portfolio roadmap summary  
+
+---
+
+## ✅ Expected Output
+
+* Tum **aggregation reporting** kar paoge  
+* **City/Product wise summaries** easily generate kar paoge  
+* **Subqueries** ki help se complex problems solve karna aa jayega  
+* Freelancing aur interviews ke liye **professional SQL reporting skills** develop ho jayegi 🚀
