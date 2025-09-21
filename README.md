@@ -686,3 +686,46 @@ Dataset: **tips.csv**
 * **City/Product wise summaries** easily generate kar paoge  
 * **Subqueries** ki help se complex problems solve karna aa jayega  
 * Freelancing aur interviews ke liye **professional SQL reporting skills** develop ho jayegi 🚀
+
+
+# 📅 Day 21 – SQL Views, Indexes & Stored Procedures
+
+## ✅ Topics Covered
+* **Views** → Reusable queries banane ke liye  
+* **Indexes** → Query performance fast karne ke liye  
+* **Stored Procedures** → Queries ko automate karne ke liye  
+
+---
+
+## 🚀 Practice Queries
+
+### 🔹 Views
+* City-wise revenue ka ek **View** banao aur use query me reuse karo
+
+### 🔹 Indexes
+* Customers table ke `City` column pe index add karo  
+* Sales table ke `Product` column pe index add karo  
+
+### 🔹 Stored Procedures
+* Ek stored procedure banao jo **Top N products by revenue** return kare  
+* Procedure ko execute karke output verify karo  
+
+---
+
+## 📂 Files
+* `day21_queries.sql` → saare SQL queries  
+* `outputs/` → screenshots ya exported CSVs  
+
+---
+
+## ✅ Expected Output
+* Tum ek **View** bana paoge jo multiple reports me reuse hoga  
+* **Indexes** ki wajah se queries fast execute hongi  
+* **Stored Procedure** se tum automated reports generate kar paoge  
+
+---
+
+## 🌟 Portfolio Value
+✔ Adds **professional database skills** (freelancing & jobs me high demand)  
+✔ Shows you can **optimize queries** with indexes  
+✔ Proof that you can **automate reporting** with stored procedures 🚀  
