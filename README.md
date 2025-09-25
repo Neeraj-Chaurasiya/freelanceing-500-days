@@ -729,3 +729,76 @@ Dataset: **tips.csv**
 ✔ Adds **professional database skills** (freelancing & jobs me high demand)  
 ✔ Shows you can **optimize queries** with indexes  
 ✔ Proof that you can **automate reporting** with stored procedures 🚀  
+
+
+# 📅 Day 22 – SQL Advanced Joins, Nested Queries & Constraints
+
+## ✅ Topics Covered
+* **Self JOIN** → ek hi table ke andar join  
+* **FULL OUTER JOIN** → dono tables ka complete data  
+* **Nested Subqueries** → query ke andar query  
+* **Constraints** → data ko validate karne ke liye  
+  - NOT NULL  
+  - UNIQUE  
+  - CHECK  
+  - DEFAULT  
+
+---
+
+## 🚀 Practice Tasks
+
+### 🔹 Self JOIN
+* Customers table me **self join** karke same city ke customers find karo  
+
+### 🔹 FULL OUTER JOIN
+* Sales aur Customers ka **full outer join** karke dono tables ka data combine karo  
+
+### 🔹 Nested Subqueries
+* Customers identify karo jinhone **average price se zyada ke products** kharide hain  
+
+### 🔹 Constraints
+* Ek `Employees` table banao with constraints:  
+  - `NOT NULL` → Name  
+  - `UNIQUE` → Email  
+  - `CHECK` → Age >= 18  
+  - `DEFAULT` → City = 'Unknown'  
+
+---
+
+## 📂 Files
+* `day22_queries.sql` → saare SQL queries  
+* `outputs/` → screenshots ya exported CSVs  
+
+---
+
+## ✅ Expected Output
+* Tum **advanced joins** use karke complex data analysis kar paoge  
+* **Nested queries** se complex reports generate kar paoge  
+* **Constraints** se tum data integrity maintain karna seekh jaoge  
+
+---
+
+## 🌟 Portfolio Value
+✔ Proof ki tum **complex joins** aur **subqueries** handle kar sakte ho  
+✔ Freelancing ke liye **data validation + integrity rules** apply karna aata hai  
+✔ Adds strong SQL concepts (industry me high demand) 🚀  
+
+
+# 📅 Day 23 – SQL Aggregations & Window Functions
+
+## 📌 Overview
+Day-23 me maine **Advanced SQL Reporting & Analytics** cover kiya jisme aggregation aur window functions use karke professional level queries banayi.  
+Ye skills freelancing, data analytics, aur real-world reporting ke liye directly useful hain.  
+
+---
+
+## ✅ Topics Mastered
+- **Aggregate Functions** → SUM(), AVG(), COUNT(), MIN(), MAX()  
+- **GROUP BY** → category / city wise data grouping  
+- **HAVING** → aggregated data par conditions lagana  
+- **Window Functions**  
+  - ROW_NUMBER() → row-wise numbering  
+  - RANK() → ranking based on sales  
+  - PARTITION BY → customer/product wise segmentation  
+  - AVG() OVER() → overall average ke sath comparison  
+
