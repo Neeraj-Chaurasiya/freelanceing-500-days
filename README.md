@@ -802,3 +802,16 @@ Ye skills freelancing, data analytics, aur real-world reporting ke liye directly
   - PARTITION BY → customer/product wise segmentation  
   - AVG() OVER() → overall average ke sath comparison  
 
+
+# 📅 Day 25 – SQL Correlated Subqueries & Conditional Logic
+
+## 📌 Overview
+Day-25 me maine **advanced SQL querying techniques** seekhe jo **dynamic reports aur business insights** ke liye use hote hain.  
+Isme focus tha **Correlated Subqueries** (row-by-row comparison) aur **CASE WHEN** (conditional reporting).  
+
+---
+
+## ✅ Topics Mastered
+- **Correlated Subqueries** → Subquery jo har row ke liye outer query ke context me run hoti hai  
+- **CASE WHEN (Conditional Logic)** → Queries me IF-ELSE type decision making  
+- **Subquery + CASE combo** → Smart reporting & business insights ke liye powerful approach
