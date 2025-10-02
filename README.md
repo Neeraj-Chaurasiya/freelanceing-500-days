@@ -815,3 +815,24 @@ Isme focus tha **Correlated Subqueries** (row-by-row comparison) aur **CASE WHEN
 - **Correlated Subqueries** → Subquery jo har row ke liye outer query ke context me run hoti hai  
 - **CASE WHEN (Conditional Logic)** → Queries me IF-ELSE type decision making  
 - **Subquery + CASE combo** → Smart reporting & business insights ke liye powerful approach
+
+
+# 📅 Day 26 – SQL Transactions & ACID Properties
+
+## 📌 Overview
+Day-26 me maine **transactions aur ACID principles** master kiye, jo **financial systems, ecommerce aur banking applications** ke liye backbone hote hain.  
+Transactions ensure karte hain ki multiple operations **ya to saath me complete ho ya cancel ho jaye** → data hamesha safe aur consistent rahta hai.  
+
+---
+
+## ✅ Topics Mastered
+- **Transactions (BEGIN, COMMIT, ROLLBACK)** → All-or-Nothing execution  
+- **ACID Properties**  
+  - Atomicity → Sabhi steps execute ho ya koi nahi  
+  - Consistency → Database valid state me rahe  
+  - Isolation → Parallel transactions ek dusre ko disturb na kare  
+  - Durability → Commit ke baad data permanent  
+- **Savepoints** → Transactions ke beech checkpoints  
+- **Isolation Levels** → Transactions ke concurrency control  
+
+---
