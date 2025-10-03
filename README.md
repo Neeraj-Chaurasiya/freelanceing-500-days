@@ -836,3 +836,23 @@ Transactions ensure karte hain ki multiple operations **ya to saath me complete 
 - **Isolation Levels** → Transactions ke concurrency control  
 
 ---
+
+# 📅 Day 27 – SQL Triggers (AFTER & INSTEAD OF)
+
+## 📌 Overview
+Day-27 me maine **SQL Triggers** master kiye.  
+Triggers wo **automatic actions** hote hain jo INSERT, UPDATE, DELETE par run hote hain.  
+Isse databases khud apne aap **audit logs maintain**, **data validation**, aur **auto-calculations** kar sakte hain – bina manual code likhe.
+
+---
+
+## ✅ Topics Mastered
+- **Trigger Basics** → Auto execution on data changes  
+- **AFTER Triggers** → Action hone ke baad run hote hain (e.g. audit logs)  
+- **INSTEAD OF Triggers** → Original action replace hota hai custom logic se  
+- **Use Cases** →  
+  - Audit trails maintain karna  
+  - Automatic calculations  
+  - Data validation & restrictions  
+
+---
