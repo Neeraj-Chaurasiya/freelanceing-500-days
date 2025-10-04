@@ -856,3 +856,24 @@ Isse databases khud apne aap **audit logs maintain**, **data validation**, aur *
   - Data validation & restrictions  
 
 ---
+
+# 📅 Day 28 – SQL User Roles & Permissions (Database Security)
+
+## 📌 Overview
+Day-28 me maine **SQL Database Security** ke core concepts master kiye.  
+Ab mai samjh gaya hoon kaise database me **users, roles aur permissions** control karte hain —  
+taaki **unauthorized access** aur **data misuse** na ho.
+
+---
+
+## ✅ Topics Mastered
+- **Database Security Basics** → Users, Roles, Permissions ka concept  
+- **User Management** → Login aur Database User creation  
+- **Roles** → Predefined roles (db_datareader, db_datawriter, db_owner)  
+- **Permissions Control** → GRANT, REVOKE, DENY commands  
+- **Practical Use Cases** →  
+  - Clients ko **read-only access** dena  
+  - Developers ke liye **restricted editing rights**  
+  - Database safety aur compliance maintain karna  
+
+---
