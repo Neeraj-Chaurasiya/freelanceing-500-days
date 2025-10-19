@@ -877,3 +877,57 @@ taaki **unauthorized access** aur **data misuse** na ho.
   - Database safety aur compliance maintain karna  
 
 ---
+
+# 📅 Day 30 – Mini Project: E-Commerce Database Analysis (End-to-End SQL Case Study)
+
+## 🎯 Objective
+Build a **real-world SQL Case Study** on *E-Commerce Sales Data* to perform  
+business analysis using **advanced SQL concepts** like joins, subqueries, views, procedures, and triggers.
+
+---
+
+## ✅ Topics Covered
+| Concept | Description |
+|----------|-------------|
+| **Database Design** | Created tables for `Customers`, `Products`, and `Sales` |
+| **Joins** | Combined data across tables for analysis |
+| **Aggregations** | Calculated revenue, top products, category-wise sales |
+| **Subqueries** | Used for comparative data logic |
+| **Views** | Created reusable summary queries (Customer Sales Summary) |
+| **Stored Procedures** | Automated city-wise sales reports with parameters |
+| **Triggers** | Added automation to log/notify after inserts |
+| **Filtering & Grouping** | Analyzed sales within date ranges and categories |
+| **Portfolio-Ready Project** | Complete dataset + insights + automation setup |
+
+🧠 Concepts Reinforced
+
+✅ Relational Database Design
+
+✅ Data Aggregation & Filtering
+
+✅ Views & Procedures for Reusability
+
+✅ Automation with Triggers
+
+✅ Real-world Query Logic & Reporting
+
+💼 Final Outcome
+
+By the end of Day 30, you will have:
+
+A fully functional SQL project simulating an e-commerce analytics system
+
+Skills in real-world database automation and reporting
+
+A portfolio-ready GitHub project demonstrating your SQL proficiency
+
+Resume line to add:
+
+“Built an end-to-end SQL case study analyzing e-commerce sales using advanced database concepts (joins, procedures, triggers, and performance optimization).”
+
+🌟 Portfolio Value
+
+✔ Demonstrates end-to-end SQL capability (design → logic → automation)
+✔ Looks impressive to recruiters and freelance clients
+✔ Perfect for Data Analyst / SQL Developer interviews
+✔ Adds real project proof to your GitHub profile 🚀
