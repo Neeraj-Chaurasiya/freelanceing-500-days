@@ -878,6 +878,33 @@ taaki **unauthorized access** aur **data misuse** na ho.
 
 ---
 
+# 📅 Day 29 – SQL Optimization & Query Performance
+
+## ✅ Topics Covered
+- **Query Execution Plan (EXPLAIN / SHOWPLAN)** → Query engine ka behavior samajhna  
+- **Indexes (Clustered vs Non-Clustered)** → Fast data retrieval ke liye indexing  
+- **Performance Analysis** → Execution time aur plan comparison  
+- **Optimization Techniques**  
+  - Efficient **JOINs** vs **Subqueries**  
+  - Use of **CTEs** for better readability  
+  - Avoiding unnecessary SELECT *  
+  - Dropping unused indexes for write optimization  
+- **Composite Indexes** → Multi-column search optimization  
+- **Real-time Performance Testing** using `SET STATISTICS TIME`  
+- **Best Practices** → Query structure tuning for scalability  
+
+---
+
+## 🌟 Portfolio Value
+- ✅ Demonstrates **Advanced SQL Performance Optimization** expertise  
+- ✅ Proof that you can **analyze execution plans** and make queries faster  
+- ✅ Shows capability to handle **large-scale datasets efficiently**  
+- ✅ Adds **high-value technical depth** — demanded by top companies (Google, Amazon, Flipkart, etc.)  
+- ✅ Freelancing edge: build **faster dashboards & analytics systems** for clients  
+- ✅ Reinforces you as a **professional SQL developer** who understands backend performance tuning  
+
+---
+
 # 📅 Day 30 – Mini Project: E-Commerce Database Analysis (End-to-End SQL Case Study)
 
 ## 🎯 Objective
