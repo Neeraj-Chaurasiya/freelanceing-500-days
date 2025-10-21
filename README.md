@@ -958,3 +958,43 @@ Resume line to add:
 ✔ Looks impressive to recruiters and freelance clients
 ✔ Perfect for Data Analyst / SQL Developer interviews
 ✔ Adds real project proof to your GitHub profile 🚀
+
+--
+
+# 📅 Day 31 – Python + SQL Integration (Data Fetching & Analysis)
+
+## 🎯 Objective
+Connect **SQL Server** with **Python (pandas)** to fetch, analyze, and export real business data.  
+Ye freelancing aur data analytics projects ka sabse common real-world workflow hai 💼  
+
+---
+
+## ✅ Topics Covered
+- **Database Connection (pyodbc)** → Secure connection between Python & SQL Server  
+- **Data Extraction (SQL Queries)** → Fetch live data directly into Python  
+- **Data Conversion (pandas)** → Convert query result into a DataFrame  
+- **Data Analysis**  
+  - Customer-wise revenue summary  
+  - Product/category performance  
+- **Excel Export (openpyxl)** → Save insights as client-ready reports  
+- **Integration Workflow** → SQL + Python combo for automation & dashboards  
+
+---
+
+## 🧩 Pre-Setup
+- ✅ SSMS me `ECommerceDB` database ready (Day-30 project se)  
+- ✅ Python environment active (VS Code / venv)  
+- ✅ Dependencies install:
+  ```bash
+  pip install pyodbc pandas openpyxl
+🌟 Portfolio Value
+💡 Skill	🎯 Description
+Full Data Pipeline	Demonstrates end-to-end integration: SQL → Python → Pandas → Excel
+Automation Expertise	Proves ability to automate data extraction, transformation & reporting
+Client-Ready Reports	Generates professional Excel files with business insights
+Data Analyst Skillset	Combines database querying and Python analytics fluency
+Freelancing Application	Perfect for clients needing live dashboards or data reports
+Industry Relevance	Used by analysts and engineers in companies like Google, Amazon & Deloitte
+Resume Highlight	“Developed a Python-SQL integration project for automated e-commerce sales analysis.”
+GitHub Portfolio Boost	Adds a technical + business project showcasing both coding & analytics skills
+
