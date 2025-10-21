@@ -987,14 +987,4 @@ Ye freelancing aur data analytics projects ka sabse common real-world workflow h
 - ✅ Dependencies install:
   ```bash
   pip install pyodbc pandas openpyxl
-🌟 Portfolio Value
-💡 Skill	🎯 Description
-Full Data Pipeline	Demonstrates end-to-end integration: SQL → Python → Pandas → Excel
-Automation Expertise	Proves ability to automate data extraction, transformation & reporting
-Client-Ready Reports	Generates professional Excel files with business insights
-Data Analyst Skillset	Combines database querying and Python analytics fluency
-Freelancing Application	Perfect for clients needing live dashboards or data reports
-Industry Relevance	Used by analysts and engineers in companies like Google, Amazon & Deloitte
-Resume Highlight	“Developed a Python-SQL integration project for automated e-commerce sales analysis.”
-GitHub Portfolio Boost	Adds a technical + business project showcasing both coding & analytics skills
 
