@@ -988,3 +988,47 @@ Ye freelancing aur data analytics projects ka sabse common real-world workflow h
   ```bash
   pip install pyodbc pandas openpyxl
 
+---
+
+# 📅 Day 32 – Data Analysis & Visualization using SQL Data (Python + Pandas + Matplotlib)
+
+## 🎯 Objective
+SQL se fetched data ko Python me analyze, clean, aur visualize karna.  
+Ye freelancing aur data analyst jobs dono ke liye **core, real-world skill** hai.  
+
+---
+
+## ✅ Topics Covered
+- **Data Cleaning using pandas** → Missing values, duplicates, and structure check  
+- **Aggregation & Grouping** → City-wise, Category-wise revenue analysis  
+- **Visualization using Matplotlib & Seaborn** → Interactive charts for insights  
+- **Data Export** → Cleaned + visualized reports exported to Excel  
+- **SQL-Python Integration** → Combining database logic with analytical visualization  
+
+---
+
+# 📅 Day 33 – Power BI Dashboard (Part 1): Connect & Model Data
+
+## 🎯 Objective
+Learn how to connect **SQL Server Database (ECommerceDB)** to **Power BI**, clean and model data for dashboard creation.  
+Ye foundation hai ek **dynamic business dashboard** banane ke liye (real-world client style setup). 💼  
+
+---
+
+## ✅ Topics Covered
+- **Power BI Interface Overview**  
+- **SQL Server Connection** – Import live data from SQL  
+- **Data Modeling** – Define relationships between tables  
+- **Data Cleaning (Power Query Editor)** – Rename, remove, format & transform columns  
+- **Calculated Columns** – Add business logic (e.g., Total Sales = Quantity × Price)  
+- **Data Model Validation** – Verify correct relationships between tables  
+
+---
+
+## 🧩 Pre-Setup
+- 🟢 Install Power BI Desktop  
+  👉 Download: [https://powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)  
+- 🟢 Ensure your SQL Server Database `ECommerceDB` is ready (from Day 30)  
+- 🟢 Tables required: **Customers**, **Products**, **Sales**  
+
+---
