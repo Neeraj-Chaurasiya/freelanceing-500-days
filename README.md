@@ -1032,3 +1032,55 @@ Ye foundation hai ek **dynamic business dashboard** banane ke liye (real-world c
 - 🟢 Tables required: **Customers**, **Products**, **Sales**  
 
 ---
+
+# 📅 Day 34 – Power BI Dashboard (Part 2): Visual Design & Insights
+
+## 🎯 Objective
+SQL Server se imported data ka use karke **Power BI me interactive dashboard** banana.  
+Dashboard me include honge:  
+- **Revenue by City**
+- **Top Products**
+- **Category-wise Sales Trends**
+- **Key KPIs (Revenue, Sales, Customers)**  
+
+Ye tumhara **first professional Power BI dashboard project** hoga —  
+jo **GitHub + LinkedIn portfolio** ke liye perfect hai 💼  
+
+---
+
+## ✅ Topics Covered
+- **Creating Visuals in Power BI**
+  - Bar, Pie, Line, and Column charts
+- **Revenue & Product Performance**
+  - Total Revenue, Top Products, Category Sales
+- **KPI Cards**
+  - Total Revenue, Total Sales, Unique Customers
+- **Interactive Filters (Slicers)**
+  - City, Product Category, Date Range
+- **Dashboard Formatting & Theme**
+  - Consistent colors, alignment, title text & layout design  
+
+---
+
+# 📅 Day 35 – Power BI Project Export & Portfolio Upload
+
+## 🎯 Objective
+Apna Power BI dashboard (from **Day 34**) final polish, export, aur **GitHub + LinkedIn** par upload karna.  
+Isse tumhara **first professional portfolio project** ready ho jaayega:  
+> 🧠 “E-Commerce Sales Dashboard using Power BI + SQL”
+
+---
+
+## ✅ Topics Covered
+- **Power BI Export Formats**
+  - `.PBIX` (editable dashboard file)
+  - `.PDF` (for portfolio presentation)
+  - `.PNG` (dashboard snapshot for GitHub/LinkedIn)
+- **GitHub Project Setup**
+  - Folder structure and `README.md`
+  - Upload final project files and screenshots
+- **LinkedIn Post Preparation**
+  - How to present your dashboard project professionally
+- **(Optional)** Power BI Service Publish (cloud sharing)
+
+---
