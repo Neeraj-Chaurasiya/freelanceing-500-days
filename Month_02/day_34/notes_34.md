@@ -90,7 +90,7 @@ Add another **Bar Chart**:
 
 ---
 
-### 🔹 Step 5 – Top 5 Products by Revenue
+### 🔹 Step 5 – Top 3 Products by Revenue
 
 Add **Column Chart**:
 
@@ -100,9 +100,9 @@ Add **Column Chart**:
 | Values | TotalAmount (SUM) |
 
 Then apply visual filter:  
-**Top N → N = 5 → Apply Filter**
+**Top N → N = 3 → Apply Filter**
 
-🧠 Title → “Top 5 Products by Revenue”  
+🧠 Title → “Top 3 Products by Revenue”  
 💡 Add data labels for better visibility.
 
 ---
