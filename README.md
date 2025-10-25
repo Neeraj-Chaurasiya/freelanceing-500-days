@@ -1084,3 +1084,50 @@ Isse tumhara **first professional portfolio project** ready ho jaayega:
 - **(Optional)** Power BI Service Publish (cloud sharing)
 
 ---
+
+# 📅 Day 36 – Pandas Deep Dive (Part 1): Introduction & Data Loading
+
+## 🎯 Objective  
+Learn how to handle structured data using **Pandas** — the foundation of every data analysis project. 🚀  
+
+## ✅ Topics Covered  
+- What is Pandas & why it’s used  
+- Series vs DataFrame (1D & 2D structures)  
+- Import data → `read_csv()`, `read_excel()`  
+- Explore data → `head()`, `info()`, `describe()`  
+- Check missing → `isnull().sum()`  
+- Clean & export → `to_csv()`  
+
+💡 Outcome: You’ll be ready to **load, inspect, and clean** real datasets in Python.  
+
+---
+
+# 📅 Day 37 – Data Analysis & Aggregations with Pandas
+
+## 🎯 Objective  
+Learn to **analyze, group, and summarize** large datasets in Python using **Pandas**.  
+Perform real-world business analysis on your `ecommerce_sales_34500.csv` dataset. 📊  
+
+---
+
+## ✅ Topics Covered  
+- Data **filtering** with conditional logic (`df[df["Price"] > 50000]`)  
+- **Sorting** values (`sort_values()`) for top/bottom records  
+- **Grouping data** using `groupby()` (e.g., city-wise or category-wise sales)  
+- **Aggregations** — `sum()`, `mean()`, `count()`, `max()`, `min()`  
+- **Multiple aggregations** using `agg()` for combined insights  
+- **Value counts** to check most frequent products/customers  
+- **Unique values** to find diversity in data  
+- Sorting aggregated results by revenue or count  
+- Exporting final summarized reports with `to_csv()`  
+
+---
+
+## 💡 Outcome  
+You’ll be able to:  
+✔ Generate **business summaries** (sales by city/category)  
+✔ Extract **top-performing products & regions**  
+✔ Create **client-ready summary reports** using Pandas  
+✔ Build the foundation for **data-driven decision making** 🚀  
+
+---
