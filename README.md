@@ -1131,3 +1131,65 @@ You’ll be able to:
 ✔ Build the foundation for **data-driven decision making** 🚀  
 
 ---
+
+# 📅 Day 38 – Data Visualization with Matplotlib & Seaborn
+
+## 🎯 Objective  
+Convert aggregated sales data into **insightful, professional visuals** for business storytelling and decision-making. 📊  
+
+---
+
+## ✅ Topics Covered  
+- **Matplotlib Basics:** bar, line, pie charts  
+- **Seaborn Advanced Visuals:** heatmap, boxplot, countplot  
+- Custom color palettes & annotations  
+- Dashboard-style themes (`sns.set_style("whitegrid")`)  
+- Export visuals as `.png` files  
+- Create mini visualization report (`notes_38.md`)  
+
+---
+
+## 🚀 Key Visuals  
+1. **Total Sales by Category** → Bar chart  
+2. **Average Sales by Region** → Horizontal bar  
+3. **Quantity Comparison** → Line plot  
+4. **Correlation Heatmap** → Sales metrics relationship  
+
+---
+
+# 📅 Day 39 – NumPy Deep Dive (Arrays, Math & Performance)
+
+## 🎯 Objective  
+Understand how **NumPy** works internally and why it’s the **foundation for Pandas & Machine Learning**.  
+Focus: Array operations, broadcasting, and performance benchmarking ⚡  
+
+---
+
+## ✅ Topics Covered  
+- **NumPy Setup & Basics** → Import, version check  
+- **Array Creation** → `array()`, `zeros()`, `ones()`, `arange()`, `linspace()`  
+- **Indexing & Slicing** → Access & subset array data  
+- **Vectorized Operations** → Fast math without loops  
+- **Broadcasting** → Handle arrays of different shapes  
+- **Statistical Functions** → `mean()`, `max()`, `sum()`  
+- **Performance Test** → Python list vs NumPy speed comparison  
+
+---
+
+## 🚀 Practice Tasks  
+1️⃣ Generate random arrays: `price`, `quantity`, `discount`  
+2️⃣ Compute `total_sale`, `final_sale`, `profit_margin`  
+3️⃣ Find **average profit**, **max sale**, **total revenue**  
+4️⃣ Compare execution time between **list** & **NumPy array**  
+5️⃣ Save outputs in:  
+   - `Month_02/day_39/numpy_basics.py`  
+   - `Month_02/day_39/notes_39.md`  
+
+---
+
+## 🌟 Outcome  
+✔ Master NumPy fundamentals & speed advantage  
+✔ Perform vectorized math & array analytics  
+✔ Benchmark performance for portfolio proof 🚀  
+
+---
