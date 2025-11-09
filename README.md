@@ -1193,3 +1193,95 @@ Focus: Array operations, broadcasting, and performance benchmarking ⚡
 ✔ Benchmark performance for portfolio proof 🚀  
 
 ---
+
+# 📅 Day 40 – Mini Project: Sales Data Report (Python + SQL)
+
+## 🎯 Objective  
+Build an **end-to-end Sales Data Analysis Project** using **Python + SQL + Visualization**.  
+This marks the final output of **Phase 2A** — a real-world analytics project ready for your portfolio 💼  
+
+---
+
+## ✅ Topics Covered  
+- Importing & cleaning data using **Pandas**  
+- Handling missing values, duplicates & type conversion  
+- **Feature engineering:** profit & final amount calculation  
+- Business summaries using **groupby() & aggregation**  
+- Creating professional charts with **Matplotlib & Seaborn**  
+- Connecting to **SQL Server** with `pyodbc`  
+- Exporting results to **Excel reports**  
+- Building a client-ready analytics report  
+- Automating insights generation  
+- Preparing project for **GitHub & LinkedIn showcase**  
+
+---
+
+## ✅ Project Overview  
+**Goal:**  
+Analyze eCommerce sales data to extract business insights like **region-wise revenue**, **category profit**, and **customer behavior**.
+
+**Tools Used:**  
+- 🐍 Python  
+- 📊 Pandas  
+- 📈 Matplotlib / Seaborn  
+- 🗄️ SQL Server (SSMS)  
+
+**Dataset:**  
+`ecommerce_sales_34500.csv`  
+
+---
+
+# 📊 Day 41 – Excel Power Query (Import, Clean & Transform Data)
+
+A complete hands-on project using **Excel Power Query** to **import, clean, and transform raw eCommerce data**.  
+This marks your transition from **Python + SQL analysis** to **Excel & Power BI data preparation** —  
+the most common step in real-world business analytics workflows 💼  
+
+---
+
+## 🎯 Objective
+Learn how to use **Excel Power Query** to handle messy raw data:
+- Import large datasets directly into Excel
+- Perform data cleaning and transformations  
+- Prepare an **analysis-ready dataset** for Power BI or Excel Dashboards  
+
+---
+
+## ✅ Topics Covered
+- **Power Query Basics** — Understanding Excel’s data transformation engine  
+- **Importing Data** — From CSV, Excel, or SQL  
+- **Cleaning Columns** — Remove unnecessary data, fix headers  
+- **Changing Data Types** — Numeric, Date, Text conversions  
+- **Calculated Columns** — Create “Final Amount = Price × Quantity × (1 - Discount)”  
+- **Grouping & Sorting** — Aggregate and sort data by Region/Category  
+- **Remove Duplicates & Replace Values**  
+- **Export Clean Data** — Save final version back to Excel  
+
+---
+
+# 📊 Day 42 – Excel Formulas for Analysis (SUMIFS, VLOOKUP, INDEX-MATCH)
+
+A practical Excel project focusing on **data analysis, lookup, and automation formulas**  
+used daily by **data analysts, freelancers, and business professionals** 💼  
+
+This project transforms cleaned sales data (from Day 41) into **insightful summary tables and reports** using Excel’s most powerful formulas.
+
+---
+
+## 🎯 Objective
+Learn Excel ke advanced analytical formulas for:
+- **Summarization** (SUMIFS, COUNTIFS, AVERAGEIFS)
+- **Data Lookup** (VLOOKUP, INDEX-MATCH)
+- **Conditional Logic** (IF, IFS)
+- **Dynamic Reporting** (Multi-condition tables for analysis)
+
+---
+
+## ✅ Topics Covered
+- **SUMIFS()** → Multi-condition total  
+- **COUNTIFS()** → Multi-condition count  
+- **AVERAGEIFS()** → Conditional average calculation  
+- **VLOOKUP()** → Lookup based on key column  
+- **INDEX + MATCH** → Flexible lookup alternative to VLOOKUP  
+- **IF() / Nested IF() / IFS()** → Logical decision-making  
+- **Formula Combinations** → Build real business summaries  
