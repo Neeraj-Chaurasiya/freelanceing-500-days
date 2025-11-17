@@ -1285,3 +1285,25 @@ Learn Excel ke advanced analytical formulas for:
 - **INDEX + MATCH** → Flexible lookup alternative to VLOOKUP  
 - **IF() / Nested IF() / IFS()** → Logical decision-making  
 - **Formula Combinations** → Build real business summaries  
+
+---
+
+# 📅 Day 43 – Excel Charts + Interactive Dashboard (Professional Level)
+
+Create a **fully interactive, client-ready Excel Sales Dashboard** using Pivot Tables, Charts,  
+Slicers, and KPI cards.  
+This is one of the most important skills for **data analysts, freelancers, and reporting jobs** 💼📊
+
+---
+
+## 🎯 Goal
+Transform raw eCommerce sales data into a **dynamic Excel dashboard** containing:
+- Revenue charts  
+- Category trends  
+- Region analysis  
+- Payment method distribution  
+- Interactive slicers  
+- KPI summary cards  
+
+---
+
