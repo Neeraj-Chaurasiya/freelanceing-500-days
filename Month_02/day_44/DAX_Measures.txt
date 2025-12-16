@@ -1,0 +1,9 @@
+Total Sales = SUM(ecommerce_sales_34500[total_amount])
+
+Total Quantity = SUM(ecommerce_sales_34500[quantity])
+
+Total Orders = DISTINCTCOUNT(ecommerce_sales_34500[order_id])
+
+Total Customers = DISTINCTCOUNT(ecommerce_sales_34500[customer_id])
+
+Avg Profit Margin = AVERAGE(ecommerce_sales_34500[profit_margin])
