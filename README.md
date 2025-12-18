@@ -1307,3 +1307,51 @@ Transform raw eCommerce sales data into a **dynamic Excel dashboard** containing
 
 ---
 
+## 📅 Day 44 – Power BI Data Modeling & DAX Basics
+
+### ✅ Topics Covered
+- Data Modeling fundamentals in Power BI  
+- Star Schema architecture (Fact & Dimension tables)  
+- Fact Table vs Dimension Tables concept  
+- Creating relationships between tables  
+- Understanding Cardinality (One-to-Many)  
+- Cross Filter Direction (Single direction best practice)  
+- Avoiding common modeling mistakes (Many-to-Many, circular relationships)  
+- Creating basic DAX Measures:
+  - Total Sales
+  - Total Quantity
+  - Total Orders
+  - Total Customers
+  - Average Profit Margin  
+- Using a disconnected table for DAX Measures (best practice)  
+- Validating and optimizing the data model  
+
+---
+
+## 📅 Day 45 – Power BI Visualization Mastery
+
+### ✅ Topics Covered
+- KPI Cards creation:
+  - Total Sales
+  - Total Orders
+  - Total Customers
+  - Average Profit Margin  
+- Category-wise Sales visualization (Column Chart)  
+- Region-wise Sales comparison (Bar Chart)  
+- Monthly Sales Trend analysis (Line Chart)  
+- Quantity / Orders based insights (Volume analysis)  
+- Interactive Slicers:
+  - Region
+  - Category
+  - Year
+  - Payment Method  
+- Dashboard interactivity using slicers  
+- Professional dashboard layout & alignment  
+- Formatting best practices:
+  - Consistent color theme
+  - Clean background
+  - Readable titles & labels
+- Designing client-ready, portfolio-level dashboards  
+- Business-focused visualization thinking  
+
+---
