@@ -1365,3 +1365,31 @@ Transform raw eCommerce sales data into a **dynamic Excel dashboard** containing
 
 Outcome:
 A clean, optimized, and client-ready Power BI dashboard.
+
+---
+
+# 📅 Day 47 – Power BI Project: Interactive Sales Insights Dashboard
+
+## ✅ Topics Covered
+
+- End-to-End Power BI Project Development
+- KPI Cards Creation
+  - Total Sales
+  - Total Quantity
+  - Total Orders
+  - Average Profit Margin
+- Business-Focused Visuals
+  - Category-wise Sales Analysis
+  - Region-wise Sales Analysis
+  - Month-wise Sales Trend
+  - Quantity Analysis by Category
+- Slicers for Interactivity
+  - Category
+  - Region
+  - Year
+  - Payment Method
+- Cross-Filtering & Interactions
+- Dashboard Layout & Alignment
+- Professional Formatting & UI Polish
+- Client-Ready Dashboard Design
+- Portfolio-Level Power BI Project Finalization
