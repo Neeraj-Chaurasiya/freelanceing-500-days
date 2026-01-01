@@ -1393,3 +1393,77 @@ A clean, optimized, and client-ready Power BI dashboard.
 - Professional Formatting & UI Polish
 - Client-Ready Dashboard Design
 - Portfolio-Level Power BI Project Finalization
+
+---
+
+# 📅 Day 48 – Python + Power BI Integration
+
+## ✅ Topics Covered
+
+- Python-based data automation pipeline  
+- Using the same raw dataset for processing  
+- Data cleaning using Pandas  
+- Business logic implementation (final amount calculation)  
+- Generating processed & aggregated CSV files  
+- Python as a data processing engine  
+- Power BI connection with Python-generated CSV  
+- Automated data refresh workflow concept  
+- Separation of data layer (Python) and visualization layer (Power BI)  
+- Real-world client-style Python + BI integration  
+
+---
+
+# 📅 Day 49 – Portfolio Project Setup
+
+## ✅ Topics Covered
+
+- Creating a **professional GitHub repository** for a data analytics project  
+- Structuring a **portfolio-ready project folder** (data, scripts, dashboard, screenshots)  
+- Preparing a **client / recruiter friendly repository layout**  
+- Organizing **Power BI dashboard files** for public showcase  
+- Managing **dataset versioning** for dashboard updates  
+- Adding **Python automation script** for data refresh  
+- Using **screenshots** to visually present dashboard insights  
+- Writing a clean **README.md** for one-link project explanation  
+- Applying **GitHub topics/tags** for better project visibility  
+- Converting a learning dashboard into a **professional portfolio project**
+
+---
+
+## 🎯 Outcome
+
+- One **single GitHub link** to showcase complete dashboard work  
+- Clear separation of **data, code, visuals, and dashboard file**  
+- Project ready for **freelancing proposals, internships, and recruiter reviews**  
+
+---
+
+## 📅 Day 49 – Portfolio Project Setup (GitHub)
+
+### ✅ Topics Covered
+- Creating a **professional GitHub repository**
+- Designing a **clean and scalable folder structure**
+- Separating code into:
+  - Python scripts
+  - Power BI files
+  - Data files
+- Writing a **portfolio-style README**
+- Defining project **features, tech stack, and use case**
+- Making the repository **client/recruiter friendly**
+- Understanding how a clean repo improves credibility
+
+---
+
+## 📅 Day 50 – Review, Polish & Final Showcase
+
+### ✅ Topics Covered
+- Capturing **Power BI dashboard screenshots**
+- Organizing screenshots for documentation
+- Enhancing README with **dashboard preview section**
+- Final **README polish** for public sharing
+- Preparing **LinkedIn-ready project content**
+- Understanding end-to-end project storytelling
+- Converting a learning project into a **portfolio asset**
+- Final review of Python + Power BI workflow
+
+---
