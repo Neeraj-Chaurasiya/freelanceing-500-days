@@ -1502,3 +1502,30 @@ A clean, optimized, and client-ready Power BI dashboard.
 ## 📁 Files & Setup
 - notes.md → Freelancing learnings & mindset notes
 - platforms_observed.txt → Platform comparison & observations
+
+---
+
+# 📅 Day 52 – Freelancing Market Research (Data Analyst Focus)
+
+## ✅ Topics Covered
+
+- Freelancing market ka practical overview (Data Analyst niche)
+- Client demand aur real-world problem understanding
+- Upwork marketplace research (Data Analyst projects)
+- Fiverr gig structure & pricing analysis
+- Common client keywords & search behavior
+- Average project budget analysis ($50–$500 range)
+- Most demanded tools for Data Analysts
+  - Excel
+  - Power BI
+  - SQL
+  - Python
+- Client problems vs personal skill mapping
+- Identifying skill gaps (improving vs strong skills)
+- Selecting **ONE core freelancing service** (focus strategy)
+- Understanding why multi-skill pitching fails for beginners
+- GitHub project alignment for freelancing
+- LinkedIn project highlighting strategy
+- Portfolio positioning for Data Analyst freelancing
+
+---
